@@ -1,1 +1,1 @@
-pwd script print the absolute file directory
+This are script on shell basics
